@@ -1,7 +1,5 @@
 # Project4_Map_my_world
 
-# Project4_Map_my_world
-
 To build
 ```
 cd catkin_ws
