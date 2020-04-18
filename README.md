@@ -15,7 +15,7 @@ roslaunch my_robot world.launch
 Terminal 2
 ```
 source devel/setup.bash
-rosrun teleop_twist_keyboard teleop_twist_keyboard.py 
+rosrun teleop_twist_keyboard teleop.launch 
 ```
 Terminal 2
 ```
