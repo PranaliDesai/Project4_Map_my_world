@@ -24,7 +24,7 @@ roslaunch mapping mapping.launch
 ```
 Mapped World
 
-<img src="https://github.com/PranaliDesai/Project4_Map_my_world/blob/master/workspace/catkin_ws/mymap.pgm" width="800">
+<img src="https://github.com/PranaliDesai/Project4_Map_my_world/blob/master/workspace/catkin_ws/mymap" width="800">
 
 Link to Rtabmap.db
 
