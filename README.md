@@ -13,11 +13,12 @@ source devel/setup.bash
 roslaunch my_robot world.launch 
 ```
 Terminal 2
+Make sure "teleop_twist_keyboard.py" is executable. 
 ```
 source devel/setup.bash
 rosrun teleop_twist_keyboard teleop.launch 
 ```
-Terminal 2
+Terminal 3
 ```
 source devel/setup.bash
 roslaunch mapping mapping.launch
