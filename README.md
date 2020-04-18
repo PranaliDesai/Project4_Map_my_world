@@ -13,8 +13,8 @@ source devel/setup.bash
 roslaunch my_robot world.launch 
 ```
 Terminal 2
-Make sure "teleop_twist_keyboard.py" is executable. 
 ```
+Make "teleop_twist_keyboard.py" executable.
 source devel/setup.bash
 rosrun teleop_twist_keyboard teleop.launch 
 ```
