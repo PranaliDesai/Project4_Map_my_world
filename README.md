@@ -26,4 +26,8 @@ Mapped World
 
 <img src="https://github.com/PranaliDesai/Project4_Map_my_world/blob/master/workspace/catkin_ws/mymap.pgm" width="800">
 
+Link to Rtabmap.db
 
+```
+https://drive.google.com/file/d/1S5Kyb942bZJAn25aeaI-dYAFPYKhdsTB/view?usp=sharing
+```
